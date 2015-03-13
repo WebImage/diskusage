@@ -1,0 +1,9 @@
+[Global]
+logpath = "/path/to/logoutput.csv"
+commandusage = "du -s $path"
+
+[Directory Label]
+path = "/path/to/folder/to/check/size"
+
+[Directory Label 2]
+path = "/path/to/another/folder/to/check/size"

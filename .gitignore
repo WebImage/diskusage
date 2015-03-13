@@ -1,0 +1,4 @@
+# Configuration files
+*.ini
+# Log files
+*.csv
